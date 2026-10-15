@@ -1,5 +1,11 @@
 # 熊宇航 · 个人技术博客
 
-首页、研究、项目、竞赛、论文、博客和关于七个独立页面。作品和文章逐步补充。
+基于 [vhAstro-Theme](https://github.com/uxiaohan/vhAstro-Theme) 定制。
 
-入口为 index.html，使用 GitHub Pages 发布。页面导航、搜索及深浅色切换均在浏览器内运行。
+栏目：项目作品、技术笔记、获奖荣誉、关于我。项目封面为示意图，技术文章将逐步补充。
+
+6 条获奖记录，5 张获准公开的证书；未展示校级证书，蓝桥杯仅展示文字。
+
+网站入口：https://libra-lontano.github.io/
+
+保留原主题 MIT 许可，见 LICENSE-vhAstro.txt。
